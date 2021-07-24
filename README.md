@@ -1,16 +1,35 @@
-### Hi there 👋
+## Hello, I'm a C++ developer
 
-<!--
-**kudryashovda/kudryashovda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I like
+- concise code
+- order
+- brevity
 
-Here are some ideas to get you started:
+### Skills and Tools
+C++, TDD, BMP, Nginx, OOP, Design Patterns, Fastcgi, Delphi, Linux, STM32, AST, AVR, Git, JSON, SVG, wxWidgets
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Completed projects
+[**Mython interpretator**](https://github.com/kudryashovda/mython)
+
+C++ inmplementation of a simplified Python. Supported main ariphmetic operations, classes, methods and inheritance.
+
+
+[**Spreadsheet**](https://github.com/kudryashovda/spreadsheet)
+
+A C++ backend implementation of a spreadsheet. Cells support string and numeric values and also ariphmetics operations with links on other cells. 
+
+[**Transport router**](https://github.com/kudryashovda/transport_router)
+
+C++ backend inplementaion of a transport router with a embedded stops database and a routing module for the shortest route calculation. Supports multiple interconnections and transport map visualization via svg file.
+
+[**Search server**](https://github.com/kudryashovda/search_server)
+
+C++ implementation of a search server. Supports stop words, minus word and documents properties. Realized TF-IDF ranking. Paginator and documents deduplicator are also realized. Some operation use multithreading features.
+
+
+
+Other project can be found here: https://github.com/kudryashovda/projects
+
+### Contacts
+- E-mail: kudryashovda@gmail.com
+- Telegram: @dakudryashov
