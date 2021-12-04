@@ -9,14 +9,18 @@ I like
 C++, TDD, BMP, Nginx, OOP, Design Patterns, Fastcgi, Delphi, Linux, STM32, AST, AVR, Git, JSON, SVG, wxWidgets
 
 ### Completed projects
+
+[**wxKeeper**](https://github.com/kudryashovda/wxKepper30)
+
+C++ GUI app to organize your notes, tasks, scientific processes based on wxWidgets library
+
 [**Mython interpretator**](https://github.com/kudryashovda/mython)
 
 C++ inmplementation of a simplified Python. Supported main ariphmetic operations, classes, methods and inheritance.
 
-
 [**Spreadsheet**](https://github.com/kudryashovda/spreadsheet)
 
-A C++ backend implementation of a spreadsheet. Cells support string and numeric values and also ariphmetics operations with links on other cells. 
+C++ backend implementation of a spreadsheet. Cells support string and numeric values and also ariphmetics operations with links on other cells. 
 
 [**Transport router**](https://github.com/kudryashovda/transport_router)
 
