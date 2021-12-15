@@ -10,7 +10,7 @@ C++, TDD, BMP, Nginx, OOP, Design Patterns, Fastcgi, Delphi, Linux, STM32, AST, 
 
 ### Completed projects
 
-[**wxKeeper**](https://github.com/kudryashovda/wxKepper30)
+[**wxKeeper**](https://kudryashovda.github.io/keeper/)
 
 C++ GUI app to organize your notes, tasks, scientific processes based on wxWidgets library
 
