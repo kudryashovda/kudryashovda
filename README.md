@@ -2,11 +2,11 @@
 
 I like
 - concise code
-- order
-- brevity
+- order in everything
+- high performance
 
 ### Skills and Tools
-C++, TDD, BMP, Nginx, OOP, Design Patterns, Fastcgi, Delphi, Linux, STM32, AST, AVR, Git, JSON, SVG, wxWidgets
+C++, Algorithms, TDD, OOP, Design Patterns, Linux, Git, CMake, GitLab, Jira, OpenCV, Fastcgi, Delphi, STM32, AST, AVR, JSON, SVG, wxWidgets
 
 ### Completed projects
 
