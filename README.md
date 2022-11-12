@@ -14,6 +14,25 @@ C++, Algorithms, TDD, OOP, Design Patterns, Linux, Git, CMake, GitLab, Jira, Ope
 
 C++ GUI app to organize your notes, tasks, scientific processes based on wxWidgets library
 
+[**SolarServer**](https://renelab.ru/solar/)
+
+A full stack cloud service for scientists aimed to provide simple calculations related to solar cells in browser (C++, nginx, fastcgi)
+
+[**Intelligent potentiostat (IPot)**](https://github.com/kudryashovda/ipot)
+
+A scientific device aimed to provide electrochemical measurements with 3-electrode cell. Written on Delphi application provides intuitive device control.
+
+[**Desktop App for Keithley 2400/2401 source meter**](https://github.com/kudryashovda/Keithley_2400x_IV)
+
+Written with Delphi 2007. Supported protocols: COM, GPIB (with external lib - GPIB-32.DLL). 
+
+[**Photoluminescence decay measurements device (STM32 + Delphi)**](https://github.com/kudryashovda/PL_decay_measurements)
+
+Developed for a study of silicon wafer passivation. Uses in solar cells technology.
+
+
+**Educational projects**
+
 [**Mython interpretator**](https://github.com/kudryashovda/mython)
 
 C++ inmplementation of a simplified Python. Supported main ariphmetic operations, classes, methods and inheritance.
