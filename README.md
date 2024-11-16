@@ -14,10 +14,6 @@ C++, Algorithms, TDD, OOP, Design Patterns, Linux, Git, CMake, GitLab, Jira, Ope
 
 C++ GUI app to organize your notes, tasks, scientific processes based on wxWidgets library
 
-[**SolarServer**](https://renelab.ru/solar/)
-
-A full stack cloud service for scientists aimed to provide simple calculations related to solar cells in browser (C++, nginx, fastcgi)
-
 [**Intelligent potentiostat (IPot)**](https://github.com/kudryashovda/ipot)
 
 A scientific device aimed to provide electrochemical measurements with 3-electrode cell. Written on Delphi application provides intuitive device control.
